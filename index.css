@@ -1,0 +1,32 @@
+.header__wrapper {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    gap: 20px;
+    padding: 20px 50px 20px 20px;
+}
+
+.header__image {
+    width: 140px;
+    height: auto;
+    border-radius: 8px;
+}
+
+.header__menu {
+    display: flex;
+    justify-content: center;
+    gap: 100px;
+    list-style: none;
+    font-size: 18px;
+        margin: 0;
+}
+
+.header__menu li {
+    margin-bottom: 10px;
+}
+
+.header__menu a {
+    text-decoration: none;
+    color: #0044cc;
+    font-weight: bold;
+}
