@@ -59,7 +59,7 @@
 .hero__content {
     position: relative;
     z-index: 2;
-    max-width: 500px;
+    max-width: 700px;
     text-align: center;
     color: black;
     display: flex;
@@ -69,12 +69,12 @@
 }
 
 .hero__title {
-    font-size: 32px;
+    font-size: 40px;
     margin-bottom: 25px;
 }
 
 .hero__text {
-    font-size: 18px;
+    font-size: 30px;
     margin-bottom: 10px;
 }
 
