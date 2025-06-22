@@ -1,0 +1,19 @@
+.care__title {
+  font-size: 3rem;
+  margin-bottom: 2rem;
+  text-align: center;
+}
+
+.care__breed-title {
+  font-size: 1.6rem;
+  margin-top: 2rem;
+}
+
+.care__subtitle {
+  font-size: 1.3rem;
+  margin-top: 1rem;
+}
+
+.care__topic {
+  margin-bottom: 1.5rem;
+}
