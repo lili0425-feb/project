@@ -29,13 +29,13 @@
 
 .carousel__image {
   width: 100%;
-  border-radius: 10px;
+  border-radius: 20px;
   object-fit: cover;
 }
 
 .carousel__description {
   margin-top: 1rem;
-  font-size: 20px;
+  font-size: 30px;
   text-align: justify;
 }
 
@@ -60,4 +60,10 @@
 
 .carousel__button--right {
   right: 0;
+}
+.breeds-carousel__list {
+  font-size: 25px;
+  margin: 0;
+  text-align: left;
+  padding-left: 1.2rem;
 }

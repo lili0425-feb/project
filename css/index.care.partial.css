@@ -1,19 +1,47 @@
+.care__section {
+  background-color: #eaea9c;
+  border-radius: 20px;
+  margin: 2rem auto;
+  padding: 2rem;
+}
+
 .care__title {
-  font-size: 3rem;
-  margin-bottom: 2rem;
+  font-size: 4rem;
+  color: #02256d;
+  margin-bottom: 1rem;
   text-align: center;
+  font-weight: bold;
+  padding: 2rem;
+  padding-top: 0rem;
 }
 
 .care__breed-title {
-  font-size: 1.6rem;
-  margin-top: 2rem;
+  font-size: 2.6rem;
+  margin-top: 1rem;
+  margin-bottom: 2rem;
+  text-align: center;
+  font-style: italic;
+  color: #0044cc;
 }
 
 .care__subtitle {
-  font-size: 1.3rem;
-  margin-top: 1rem;
+  font-size: 2rem;
+  margin-bottom: 1rem;
+  text-align: center;
 }
 
 .care__topic {
+  font-size: 1.5rem;
   margin-bottom: 1.5rem;
+  padding: 2.5rem;
+  padding-top: 1rem;
+  padding-bottom: 1rem;
 }
+.care__list {
+  padding-left: 1.2rem;
+}
+
+.other__list {
+  padding-left: 1.2rem;
+}
+
